@@ -1,7 +1,9 @@
 # AutoPython
 《Python编程快速上手》
 
-## 目录
+
+## Table of Contents
+---
 + Chapter 0 – Introduction
 + Chapter 1 – Python Basics
 + Chapter 2 – Flow Control
@@ -24,3 +26,8 @@
 + Appendix A – Installing Third-Party Modules
 + Appendix B – Running Programs
 + Appendix C – Answers to the Practice Questions
+
+
+## Link
+---
++ *https://automatetheboringstuff.com/*
