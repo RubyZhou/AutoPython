@@ -3,7 +3,6 @@
 
 
 ## Table of Contents
----
 + Chapter 0 – Introduction
 + Chapter 1 – Python Basics
 + Chapter 2 – Flow Control
@@ -29,5 +28,4 @@
 
 
 ## Link
----
 + *https://automatetheboringstuff.com/*
