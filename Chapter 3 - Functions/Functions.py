@@ -27,12 +27,13 @@ def getAnswer(answerNumber):
     elif answerNumber == 9:
         return 'Very doubtful'
 
-
 print(getAnswer(random.randint(1, 9)))
+
 
 # 设置函数参数结束符
 print('Hello', end='')
 print('World')
+
 
 # 设置函数参数分隔符
 print('cats', 'dogs', 'mice', sep='|')
