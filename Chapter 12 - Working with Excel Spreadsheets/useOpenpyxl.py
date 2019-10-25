@@ -138,8 +138,6 @@ def get_RowsAndColumns() :
         print("行号:", cellObj.coordinate, " 值:", cellObj.value)
 
 
-
-
 ###########################################################
 #
 #              MAIN BODY OF SCRIPT
